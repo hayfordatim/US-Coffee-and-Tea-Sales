@@ -26,3 +26,25 @@ This project focuses on a comprehensive analysis of coffee and tea sales in the 
 
 In this section, we detail the procedures undertaken to ensure the data is in optimal condition for analysis. This includes data cleaning to handle missing values and inconsistencies, and the selection of relevant variables. The goal was to create a clean, structured dataset that formed the foundation for our exploratory data analysis and visualizations.
 
+![dat](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon3.png) 
+
+![dat1](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s1.png) 
+
+![dat2](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon4.png) 
+
+![dat3](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s3.png) 
+
+![dat4](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon5.png) 
+
+![dat5](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s2.png) 
+
+![dat6](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon8.png) 
+
+![dat7](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s4.png) 
+
+![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon9.png) 
+
+![dat9](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s5.png) 
+
+
+### Exploratory Data Analysis (EDA)
