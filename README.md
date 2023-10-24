@@ -48,3 +48,11 @@ In this section, we detail the procedures undertaken to ensure the data is in op
 
 
 ### Exploratory Data Analysis (EDA)
+
+![dat10](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon10.png) 
+
+![dat11](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s6.png) 
+
+![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon11.png) 
+
+![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s7.png) 
