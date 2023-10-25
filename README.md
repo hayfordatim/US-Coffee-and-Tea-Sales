@@ -61,3 +61,5 @@ In this section, we journey through the data, seeking to understand its structur
 ### Data Visualization
 
 By harnessing the power of visualization, data becomes more than just numbers; it becomes a story, allowing us to quickly grasp trends, patterns, and insights. Visualization bridges the gap between raw data and human understanding, making it an essential tool for data analysis, decision-making, and effective communication.
+
+Below is a tableau visualization dashboard for the Linkedin data analysis. To view and explore the interactive dashboard, click [here](https://public.tableau.com/shared/H8KBQBJJ2?:display_count=n&:origin=viz_share_link) 
