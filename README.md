@@ -21,6 +21,27 @@ This project focuses on a comprehensive analysis of coffee and tea sales in the 
 
 ### Data Source
 
+The data was acquired from Kaggle with the name Coffee dataset.
+The columns in the data set include:
+- Area Code
+- Date
+- Market
+- Market Size
+- Product
+- Product Line
+- Product Type
+- State
+- Type
+- Budget COGS
+- Budget Profit
+- Budget Sales
+- COGS
+- Inventory
+- Margin
+- Marketing
+- Profit
+- Sales
+- Total Expenses
 
 ### Data Preparation
 
