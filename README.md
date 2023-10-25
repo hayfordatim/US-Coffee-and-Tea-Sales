@@ -42,9 +42,24 @@ In this section, we detail the procedures undertaken to ensure the data is in op
 
 ![dat7](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s4.png) 
 
-![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon9.png) 
 
-![dat9](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s5.png) 
 
 
 ### Exploratory Data Analysis (EDA)
+
+In this section, we journey through the data, seeking to understand its structure, uncover patterns, and identify key insights. It's our first step into uncharted territory, where we let the data tell its story. Through EDA, we uncover the untold tales hidden within the data, setting the stage for further exploration and analysis.
+
+![dat10](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon10.png) 
+
+![dat11](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s6.png) 
+
+![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/carbon11.png) 
+
+![dat8](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/s7.png) 
+
+
+### Data Visualization
+
+By harnessing the power of visualization, data becomes more than just numbers; it becomes a story, allowing us to quickly grasp trends, patterns, and insights. Visualization bridges the gap between raw data and human understanding, making it an essential tool for data analysis, decision-making, and effective communication.
+
+Below is a tableau visualization dashboard for the Linkedin data analysis. To view and explore the interactive dashboard, click [here](https://public.tableau.com/shared/H8KBQBJJ2?:display_count=n&:origin=viz_share_link) 
