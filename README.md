@@ -89,4 +89,6 @@ Below is a tableau visualization dashboard for the Linkedin data analysis. To vi
 
 ### Detail Analysis
 
-To see the detail analysis of the project in python, click [here](US Coffee & Tea Sales.ipynb) 
+To see the detail analysis of the project in python, click [US Coffe & Tea analysis](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/5c006b5cbe2fb89a53bc1c8694a226abb8758768/US%20Coffee%20%26%20Tea%20Sales.ipynb)
+
+
