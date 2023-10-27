@@ -86,9 +86,13 @@ By harnessing the power of visualization, data becomes more than just numbers; i
 Below is a tableau visualization dashboard for the Linkedin data analysis. To view and explore the interactive dashboard, click [here](https://public.tableau.com/shared/H8KBQBJJ2?:display_count=n&:origin=viz_share_link) 
 
 ![Dashboard](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/main/images/Dashboard%202-3.png)
-
+<br><br>
 ### Detail Analysis
 
 To see the detail analysis of the project in python, click [US Coffe & Tea analysis](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/5c006b5cbe2fb89a53bc1c8694a226abb8758768/US%20Coffee%20%26%20Tea%20Sales.ipynb) 
 
+
+<br><br>
+
+## Thank You!!! 🙂😉
 
