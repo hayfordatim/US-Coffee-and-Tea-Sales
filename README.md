@@ -5,6 +5,7 @@
 ### Project Overview
 
 This project focuses on a comprehensive analysis of coffee and tea sales in the United States during the years 2012 and 2013. The primary aim is to gain insights into the sales trends, market dynamics, and factors influencing the consumption of these popular beverages. Through data cleaning, exploratory data analysis (EDA), and data visualization, we unveil patterns and draw meaningful conclusions from the provided dataset.
+Kindly click click [US Coffe & Tea analysis](https://github.com/hayfordatim/US-Coffee-and-Tea-Sales/blob/5c006b5cbe2fb89a53bc1c8694a226abb8758768/US%20Coffee%20%26%20Tea%20Sales.ipynb) to view full analysis.
 
 ### Key Objectives
 - Examine sales trends for various coffee and tea products.
